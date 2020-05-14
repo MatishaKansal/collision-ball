@@ -35,10 +35,7 @@ function draw() {
       car.shapeColor= color(0, 255, 0)
     }
   } 
-  else {
-    wall.shapeColor = "white";
-    car.shapeColor = "white";
-  }
+  
   
   drawSprites();
 }
